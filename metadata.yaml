@@ -1,0 +1,32 @@
+_repo: Society-for-Superseding-the-Necessity-of-Climbing-Boys-by-Encouraging-a-New-Method-of-Sweepin__67132
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49
+    - https://en.wikipedia.org/wiki/Anonymous_work
+description: ''
+gutenberg_issued: '2022-01-09'
+identifiers:
+  gutenberg: '67132'
+language: en
+pgterms:marc905: 20210728195706listed
+pgterms:marc906: '1837'
+pgterms:marc907: GB
+production_note: Thomas Frost and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from scans of public domain works at The National Library
+  of Australia.)
+publication_note: United Kingdom :Society for Superseding the Necessity of Climbing
+  Boys,1837.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Society for Superseding the Necessity of Climbing Boys, by Encouraging a New
+  Method of Sweeping Chimneys: Twenty-First Report, May 1, 1837'
+url: http://www.gutenberg.org/ebooks/67132
